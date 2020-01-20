@@ -1,0 +1,2 @@
+# start_ts
+typescriptのコンパイルをデモする
